@@ -3,32 +3,43 @@ Usage
 
 .. _installation:
 
-How to Use
-------------
+Setup Instructions
+------------------
 
-To use Lumache, first install it using pip:
+#. Clone the repository:
 
-.. code-block:: console
+   .. code-block:: console
 
-   (.venv) $ pip install lumache
+      git clone <https://github.com/annedmnq/waikaneappbackend.git>
+      cd waikaneappbackend
+#. Install Python dependencies
 
-Creating recipes
-----------------
+   .. code-block:: console
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+      pip install-r requirements.txt
 
-.. autofunction:: lumache.get_random_ingredients
+#. Run the API Server
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
-will raise an exception.
+   .. code-block:: console
 
-.. autoexception:: lumache.InvalidKindError
+      python api.py
 
-For example:
+#. Access the API
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+   * Server runs on Jetstream
+   * API documentation available at :doc:`api` 
 
+Running Locally
+-----------------
+
+#. Install dependencies
+
+   .. code-block:: console
+
+      npm install
+
+#. Start the app
+
+   .. code-block:: console
+
+      npx expo start
