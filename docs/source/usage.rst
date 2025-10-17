@@ -1,45 +1,111 @@
-Usage
-=====
+How to Use
+===========
 
-.. _installation:
+Home Page
+----------
 
-Setup Instructions
-------------------
+**Streams Gauge**
 
-#. Clone the repository:
+.. figure:: /imgs/home/home-streams.jpg
+    :width: 1170px
+    :height: 2325px
+    :scale: 25%
 
-   .. code-block:: console
+    This is the gauge for Waikane streams. The gauge shows the height of the streams and is color coded based on the extremity of height. Below you can find the graph that shows the height from 12:00 AM from the previous day to 12:00 AM, the next day.
 
-      git clone <https://github.com/annedmnq/waikaneappbackend.git>
-      cd waikaneappbackend
-#. Install Python dependencies
+**Tide Gauge**
 
-   .. code-block:: console
+.. figure:: /imgs/home/home-tide.jpg
+    :width: 1170px
+    :height: 2325px
+    :scale: 25%
 
-      pip install-r requirements.txt
+    Waikane tide data is taken from ... and is reported back through text and a graph. The graph reports data from 12AM from the previous day to 12AM the next day.
 
-#. Run the API Server
+**Rainfall Gauge**
 
-   .. code-block:: console
+.. figure:: /imgs/home/home-rainfall.jpg
+    :width: 1170px
+    :height: 2325px
+    :scale: 25%
 
-      python api.py
+    Makai and Makai rainfall data is taken from ... and the table displays the data from the last hour, last six hours, and when the data was last updated.
 
-#. Access the API
+**Weather**
 
-   * Server runs on Jetstream
-   * API documentation available at :doc:`api` 
+.. figure:: /imgs/home/home-weather.jpg
+    :width: 1170px
+    :height: 1689px
+    :scale: 25%
 
-Running Locally
------------------
+    At the bottom of the home page is a 3 day weather forecase with data taken from the National Weather Service.
 
-#. Install dependencies
 
-   .. code-block:: console
+About Page
+-----------
 
-      npm install
+**App Info and Methods**
 
-#. Start the app
+.. figure:: /imgs/about/about-appinfoandmethods.jpg
+    :width: 1170px
+    :height: 2135px
+    :scale: 25%
 
-   .. code-block:: console
+    Caption
 
-      npx expo start
+**Contact and Feedback**
+
+.. figure:: /imgs/about/about-contactandfeedback.jpg
+    :width: 1170px
+    :height: 1101px
+    :scale: 25%
+
+    Contact and feedback can be given via email (infowrrc@hawaii.edu) or through the feedback form.
+
+**Disclamer**
+
+.. figure:: /imgs/about/about-disclaimer.jpg
+    :width: 1170px
+    :height: 1107px
+    :scale: 25%
+
+    Caption
+
+**Emergency Contacts**
+
+.. figure:: /imgs/about/about-emergencycontacts.jpg
+    :width: 1170px
+    :height: 2098px
+    :scale: 25%
+
+    At the bottom of the about page is the numbers of emergency services.
+
+Popup Features
+---------------
+
+**Popup Buttons**
+
+.. figure:: /imgs/popup/popup-loadin.jpg
+    :width: 406px
+    :height: 231px
+    :scale: 50%
+
+    These buttons can be found on the top right corner of your screen, which includes the flood risk and Arcgis map.
+
+**Arcgis Map**
+
+.. figure:: /imgs/popup/popup-arcgis.jpg
+    :width: 1170px
+    :height: 2331px
+    :scale: 25%
+
+    Clicking the map icon opens a Arcgis map that shows ....
+
+**Flood Risk**
+
+.. figure:: /imgs/popup/popup-floodrisk.jpeg
+    :width: 1170px
+    :height: 2325px
+    :scale: 25%
+
+    Clicking the flood risk icon opens a window with the summary of current readings from the last hour.

@@ -16,7 +16,7 @@ Our goal is to make flood data simple, clear, and useful for everyday decisions 
 With **Flood Check**, you’ll know the conditions before you go — giving you peace of mind and the tools to make safe, informed decisions.
 
 Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` for the project.
+the :ref:`installation` for the project.
 
 .. note::
 
@@ -27,7 +27,7 @@ Contents
 
 .. toctree::
 
-   index
+   setup
    usage
    support
    methods

@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Flood Check'
-copyright = '2021, Graziella'
+copyright = '2025, Graziella'
 author = 'Graziella'
 
 release = '0.1'
@@ -34,3 +34,11 @@ html_theme = 'sphinx_rtd_theme'
 
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
+
+html_js_files = [
+    'https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js',
+]
+html_css_files = [
+    'https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css',
+]
+
