@@ -20,7 +20,7 @@ Home Page
     :height: 2325px
     :scale: 25%
 
-    Waikane tide data is taken from ... and is reported back through text and a graph. The graph reports data from 12AM from the previous day to 12AM the next day.
+    Waikane tide data is reported back through text and a graph. The graph reports data from 12AM from the previous day to 12AM the next day.
 
 **Rainfall Gauge**
 
@@ -29,7 +29,7 @@ Home Page
     :height: 2325px
     :scale: 25%
 
-    Makai and Makai rainfall data is taken from ... and the table displays the data from the last hour, last six hours, and when the data was last updated.
+    Makai and Makai rainfall data reported in the table that displays the data from the last hour, last six hours, and when the data was last updated.
 
 **Weather**
 
@@ -38,7 +38,7 @@ Home Page
     :height: 1689px
     :scale: 25%
 
-    At the bottom of the home page is a 3 day weather forecase with data taken from the National Weather Service.
+    At the bottom of the home page is a 3 day weather forecast for Windward with data taken from the National Weather Service.
 
 
 About Page
@@ -51,7 +51,7 @@ About Page
     :height: 2135px
     :scale: 25%
 
-    Caption
+    A short summary for each section on the home page. More info for the methods and data collections can be found at :doc:`methods`.
 
 **Contact and Feedback**
 
@@ -62,14 +62,14 @@ About Page
 
     Contact and feedback can be given via email (infowrrc@hawaii.edu) or through the feedback form.
 
-**Disclamer**
+**Disclaimer**
 
 .. figure:: /imgs/about/about-disclaimer.jpg
     :width: 1170px
     :height: 1107px
     :scale: 25%
 
-    Caption
+    Disclaimer
 
 **Emergency Contacts**
 
@@ -99,13 +99,13 @@ Popup Features
     :height: 2331px
     :scale: 25%
 
-    Clicking the map icon opens a Arcgis map that shows ....
+    Clicking the map icon opens a Arcgis map that shows a Windward map that also indicates watershed locations.
 
 **Flood Risk**
 
-.. figure:: /imgs/popup/popup-floodrisk.jpeg
-    :width: 1170px
-    :height: 2325px
-    :scale: 25%
+.. figure:: /imgs/popup/popup-floodrisk.png
+    :width: 291px
+    :height: 407px
+    :scale: 110%
 
     Clicking the flood risk icon opens a window with the summary of current readings from the last hour.
