@@ -14,9 +14,9 @@ App Information
 * Age Rating (questionnaire): 4+
 * Copyright: Copyright @ 2025 WRRC Shuler Lab. All rights reserved.
 * App Icon (1024x1024, no transparency)
-.. image:: /imgs/logo.png
-    :width: 1024px
-    :height: 1024px
+.. image:: /imgs/app_icon.png
+    :width: 2000px
+    :height: 1877px
     :scale: 10%
     :align: center
 
@@ -24,8 +24,7 @@ App Information
 Contact Us
 -----------
 
-| Contact: Brian Gorberg `bgorberg@hawaii.edu <bgorberg@hawaii.edu>`_, 215-356-6263
-| Feedback Form:
+| Contact: WRRC `infowrrc@hawaii.edu <infowrrc@hawaii.edu>`_
 
 Troubleshooting
 ---------------------
