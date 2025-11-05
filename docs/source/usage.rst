@@ -60,7 +60,7 @@ About Page
     :height: 1101px
     :scale: 25%
 
-    Contact and feedback can be given via email (infowrrc@hawaii.edu) or through the feedback form.
+    Contact and feedback can be given via email (infowrrc@hawaii.edu).
 
 **Disclaimer**
 
@@ -94,12 +94,12 @@ Popup Features
 
 **Arcgis Map**
 
-.. figure:: /imgs/popup/popup-arcgis.jpg
-    :width: 1170px
-    :height: 2331px
+.. figure:: /imgs/popup/map.jpg
+    :width: 1179px
+    :height: 2390px
     :scale: 25%
 
-    Clicking the map icon opens a Arcgis map that shows a Windward map that also indicates watershed locations.
+    Clicking the map icon opens a map that shows a Windward map with streams, gauges, and watersheds marked.
 
 **Flood Risk**
 

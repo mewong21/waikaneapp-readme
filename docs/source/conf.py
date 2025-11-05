@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Flood Check'
-copyright = '2025, Graziella'
-author = 'Graziella'
+project = 'Windward Flood Check'
+copyright = '2025, WRRC'
+author = 'WRRC'
 
 release = '0.1'
 version = '0.1.0'

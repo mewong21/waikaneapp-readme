@@ -1,20 +1,20 @@
 Support and Privacy Policy
 ==========================
 
-**Flood Check 1.0.0**
+**Windward Flood Check 1.0.0**
 
 General
 --------
 App Information
 
-* App Name: Flood Check
+* App Name: Windward Flood Check
 * Primary Language: English
 * Bundle ID & SKU: edu.hawaii.wrrc
 * Categories (primary/secondary): primary = Weather, secondary  = Utilities
 * Age Rating (questionnaire): 4+
 * Copyright: Copyright @ 2025 WRRC Shuler Lab. All rights reserved.
 * App Icon (1024x1024, no transparency)
-.. image:: /imgs/app_icon.png
+.. image:: /imgs/lots_of_water_.png
     :width: 2000px
     :height: 1877px
     :scale: 10%
