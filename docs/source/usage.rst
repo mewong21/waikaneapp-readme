@@ -90,7 +90,7 @@ Popup Features
     :height: 231px
     :scale: 50%
 
-    These buttons can be found on the top right corner of your screen, which includes the flood risk and Arcgis map.
+    These buttons can be found on the top right corner of your screen, which includes the flood risk and map.
 
 **Map**
 
